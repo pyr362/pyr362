@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pyr362
 - 👀 I’m interested in startups focused on tech & data
-- 🌱 I’m currently learning Web3
+- 🌱 I’m currently learning Web3, Nodejs, Express, NestJS
 - 💞️ I’m looking to collaborate on Web3 projects
 - 📫 Reach me @mangalprasad on twitter.
 
